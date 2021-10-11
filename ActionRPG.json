@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6164499fcc50d13bcd25085c"
+  },
+  "Game": "Diablo",
+  "Year": "1996",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Condor Games"
+},{
+  "_id": {
+    "$oid": "6164499fcc50d13bcd25085d"
+  },
+  "Game": "Diablo: Hellfire",
+  "Year": "1997",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Synergistic Software"
+},{
+  "_id": {
+    "$oid": "61644c5dcc50d13bcd250865"
+  },
+  "Game": "Diablo II",
+  "Year": "1999",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Blizzard North"
+},{
+  "_id": {
+    "$oid": "61644c74cc50d13bcd250866"
+  },
+  "Game": "Diablo II: Lord of Destruction",
+  "Year": "2001",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Blizzard North"
+},{
+  "_id": {
+    "$oid": "61644cd9cc50d13bcd250867"
+  },
+  "Game": "Titan Quest",
+  "Year": "2006",
+  "Publisher": "Handy Games",
+  "Studio": "Iron Lore Entertainment"
+},{
+  "_id": {
+    "$oid": "61644d2ccc50d13bcd250868"
+  },
+  "Game": "The Witcher 3: Wild Hunt",
+  "Year": "2015",
+  "Publisher": "CD Projekt",
+  "Studio": "CD Projekt RED"
+}]

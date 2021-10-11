@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "61644fe1cc50d13bcd250894"
+  },
+  "Game": "Warcraft: Orcs & Humans",
+  "Year": "1994",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Blizzard Entertainment"
+},{
+  "_id": {
+    "$oid": "6164506fcc50d13bcd250895"
+  },
+  "Game": "Warcraft II: Tides of Darkness",
+  "Year": "1995",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Blizzard Entertainment"
+},{
+  "_id": {
+    "$oid": "61645088cc50d13bcd250896"
+  },
+  "Game": "Warcraft III: Reign of Chaos",
+  "Year": "2002",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Blizzard Entertainment"
+},{
+  "_id": {
+    "$oid": "616450bbcc50d13bcd250897"
+  },
+  "Game": "StarCraft",
+  "Year": "1998",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Blizzard Entertainment"
+},{
+  "_id": {
+    "$oid": "616450e4cc50d13bcd250898"
+  },
+  "Game": "StarCraft 2: Wings of Liberty",
+  "Year": "2010",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Blizzard Entertainment"
+},{
+  "_id": {
+    "$oid": "61645130cc50d13bcd250899"
+  },
+  "Game": "Age of Empires",
+  "Year": "1997",
+  "Publisher": "Microsoft Games",
+  "Studio": "Ensemble Studios"
+},{
+  "_id": {
+    "$oid": "61645150cc50d13bcd25089a"
+  },
+  "Game": "Age of Empires II: The Age of Kings",
+  "Year": "1999",
+  "Publisher": "Microsoft Games",
+  "Studio": "Ensemble Studios"
+},{
+  "_id": {
+    "$oid": "616451bccc50d13bcd25089b"
+  },
+  "Game": "Cossacks: European Wars",
+  "Year": "2001",
+  "Publisher": "CDV Software Entertainment",
+  "Studio": "GSC Game World"
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "61644f12cc50d13bcd25088b"
+  },
+  "Game": "Aeon of Strife (StarCraft II Map)",
+  "Year": "1998",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Gunner_4_ever"
+},{
+  "_id": {
+    "$oid": "61644f9ccc50d13bcd25088c"
+  },
+  "Game": "Defense of the Ancients (WarCraft III Map)",
+  "Year": "2002",
+  "Publisher": "Blizzard Entertainment",
+  "Studio": "Guinsoo & IceFrog"
+},{
+  "_id": {
+    "$oid": "61644fc6cc50d13bcd25088d"
+  },
+  "Game": "League of Legends",
+  "Year": "2009",
+  "Publisher": "Riot Games",
+  "Studio": "Riot Games"
+}]
