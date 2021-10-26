@@ -1,6 +1,7 @@
-const Game = require('../models/gameModel');
+const Game = require('../models/GameModel');
 
 exports.createGame = async(req, res) => {
+	console.log('createGame called.');
 	try {
 		let game = await Game.findOne({name: req.body.name});
 		if (game)
@@ -21,9 +22,10 @@ exports.createGame = async(req, res) => {
 };
 
 exports.getGames= async(req, res) => {
+	console.log('getGames called.');
 	try {
 		const game = await Game.find();
-		return game.status(200).json({
+		return res.status(200).json({
 			status: 'get success',
 			game
 		});
