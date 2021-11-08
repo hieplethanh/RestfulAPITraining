@@ -10,6 +10,8 @@ var gameRouter = require('./routers/GameRouter');
 const studioRouter = require('./routers/StudioRouter');
 const publisherRouter = require('./routers/PublisherRouter');
 const genreRouter = require('./routers/GenreRouter');
+const userRouter = require('./routers/UserRouter');
+const auth = require('./routers/AuthRouter');
 
 const app = express();
 
@@ -25,6 +27,8 @@ app.use('/game',gameRouter);
 app.use('/studio',studioRouter);
 app.use('/publisher',publisherRouter);
 app.use('/genre',genreRouter);
+app.use('/user',userRouter);
+app.use('/auth', auth);
 
 app.listen(port, function(error){
     if (error) {

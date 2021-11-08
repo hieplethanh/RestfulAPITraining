@@ -1,4 +1,4 @@
-const Studio = require('../models/StudioModel');
+const {Studio} = require('../models/StudioModel');
 
 exports.createStudio = async(req, res) => {
 	try {

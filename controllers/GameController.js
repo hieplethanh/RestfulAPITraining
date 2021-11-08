@@ -1,4 +1,4 @@
-const Game = require('../models/GameModel');
+const {Game} = require('../models/GameModel');
 
 exports.createGame = async(req, res) => {
 	console.log('createGame called.');

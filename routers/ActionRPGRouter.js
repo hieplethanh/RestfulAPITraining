@@ -9,4 +9,4 @@ router.route('/:id').get(rpgController.getGame);
 router.route('/:id').put(rpgController.updateGame);
 router.route('/:id').post(rpgController.deleteGame);
 
-module.exports = router;
+module.exports = router; 

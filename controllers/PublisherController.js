@@ -1,4 +1,4 @@
-const Publisher = require('../models/publisherModel');
+const {Publisher} = require('../models/publisherModel');
 
 exports.createPublisher = async(req, res) => {
 	try {
